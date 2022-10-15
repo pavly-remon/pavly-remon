@@ -13,11 +13,11 @@
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&link=http://right&logoColor=ffffff)](mailto:pavlyr.2019@gmail.com)
 
 
-
 ##### 🔭 Languages, tools, and technologies:
 ![Flutter](https://img.shields.io/badge/Flutter-00599C?style=flat&logo=flutter&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web-14354C?style=flat&logo=web&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web-14354C?style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-14354C?style=flat&logo=SQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&link=http://right&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&link=http://right&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&link=http://right&logoColor=ffffff)
