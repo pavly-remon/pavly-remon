@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Pavly Remon.
-
+## Hi there 👋, my name is Pavly Remon.
+### Software Engineer at [![Huawei](https://img.shields.io/badge/Huawei-00599C?style=?style=flat&logo=huawei&logoColor=red&color=white)](https://www.huawei.com/)
 
 - A creative and detail-oriented Mobile and Web Apps Developer
 - My goal is delivering a high quality Apps 📱
@@ -9,19 +9,19 @@
 
 ##### 📫 How to reach me:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](https://www.linkedin.com/in/pavly-remon-090156107/)
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff)](mailto:pavlyr.2019@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&link=http://right)](https://www.linkedin.com/in/pavly-remon-090156107/)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&link=http://right&logoColor=ffffff)](mailto:pavlyr.2019@gmail.com)
 
 
 
 ##### 🔭 Languages, tools, and technologies:
-![Flutter](https://img.shields.io/badge/Flutter-00599C?style=for-the-badge&logo=flutter&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web-14354C?style=for-the-badge&logo=web&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
-![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=http://right&logoColor=ffffff)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&link=http://right&logoColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-00599C?style=flat&logo=flutter&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web-14354C?style=flat&logo=web&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&link=http://right&logoColor=ffffff)
+![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&link=http://right&logoColor=ffffff)
+![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&link=http://right&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 
