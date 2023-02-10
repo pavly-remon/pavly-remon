@@ -4,7 +4,7 @@
 - A creative and detail-oriented Mobile and Web Apps Developer
 - My goal is delivering a high quality Apps 📱
 - Having a good experience in many programming languages (mostly: Flutter, Vue.js and Python) 
-
+- Also, Have a good experience in AI Application Engineering 🤖
 
 
 ##### 📫 How to reach me:
@@ -14,10 +14,11 @@
 
 
 ##### 🔭 Languages, tools, and technologies:
+![Tensorflow](https://img.shields.io/badge/Tensorflow-14354C?style=flat&logo=tensorflow&logoColor=orange&color=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=blue&color=ffff00)
+![Web Development](https://img.shields.io/badge/Web-14354C?style=flat&logo=javascript&logoColor=ffff00)
+![SQL](https://img.shields.io/badge/SQL-14354C?style=flat&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-00599C?style=flat&logo=flutter&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web-14354C?style=flat&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-14354C?style=flat&logo=SQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&link=http://right&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&link=http://right&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&link=http://right&logoColor=ffffff)
