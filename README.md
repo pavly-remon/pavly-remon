@@ -4,7 +4,7 @@
 - A creative and detail-oriented Mobile and Web Apps Developer
 - My goal is delivering a high quality Apps 📱
 - Having a good experience in many programming languages (mostly: Flutter, Vue.js and Python) 
-- Also, Have a good experience in AI Application Engineering 🤖
+- Also, Have a good experience in AI Engineering Track 🤖
 
 
 ##### 📫 How to reach me:
