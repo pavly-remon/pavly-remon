@@ -2,8 +2,8 @@
 ### Software Engineer at [![Huawei](https://img.shields.io/badge/Huawei-00599C?style=?style=flat&logo=huawei&logoColor=red&color=white)](https://www.huawei.com/)
 
 - A creative and detail-oriented Mobile and Web Apps Developer
-- My goal is delivering a high quality Apps 📱
-- Having a good experience in many programming languages (mostly: Flutter, Vue.js and Python) 
+- My goal is to deliver a high-quality Apps 📱
+- Having a good experience in many programming languages (mostly: Flutter, Vue.js, and Python) 
 - Also, Have a good experience in AI Engineering Track 🤖
 
 
@@ -14,11 +14,12 @@
 
 
 ##### 🔭 Languages, tools, and technologies:
-![Tensorflow](https://img.shields.io/badge/Tensorflow-14354C?style=flat&logo=tensorflow&logoColor=orange&color=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=blue&color=ffff00)
 ![Web Development](https://img.shields.io/badge/Web-14354C?style=flat&logo=javascript&logoColor=ffff00)
-![SQL](https://img.shields.io/badge/SQL-14354C?style=flat&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-00599C?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=blue&color=ffff00)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-14354C?style=flat&logo=mysql&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-14354C?style=flat&logo=tensorflow&logoColor=orange&color=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&link=http://right&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&link=http://right&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&link=http://right&logoColor=ffffff)
@@ -28,7 +29,7 @@
 
 
 <!--
-**mariammakram/mariammakram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pavly-remon/pavly-remon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
