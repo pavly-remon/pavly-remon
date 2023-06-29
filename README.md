@@ -2,7 +2,7 @@
 ### Software Engineer at [![Huawei](https://img.shields.io/badge/Huawei-00599C?style=?style=flat&logo=huawei&logoColor=red&color=white)](https://www.huawei.com/)
 
 - A creative and detail-oriented Mobile and Web Apps Developer
-- My goal is to deliver a high-quality Apps 📱
+- My goal is to deliver high-quality Apps 📱
 - Having a good experience in many programming languages (mostly: Flutter, Vue.js, and Python) 
 - Also, Have a good experience in AI Engineering Track 🤖
 
@@ -20,6 +20,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-14354C?style=flat&logo=mysql&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-14354C?style=flat&logo=tensorflow&logoColor=orange&color=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&link=http://right&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&link=http://right&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&link=http://right&logoColor=ffffff)
