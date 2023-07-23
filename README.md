@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Pavly Remon.
-### Software Engineer at [![Huawei](https://img.shields.io/badge/Huawei-00599C?style=?style=flat&logo=huawei&logoColor=red&color=white)](https://www.huawei.com/)
+### Full-Stack Web Developer at [![Huawei](https://img.shields.io/badge/Huawei-00599C?style=?style=flat&logo=huawei&logoColor=red&color=white)](https://www.huawei.com/)
 
 - A creative and detail-oriented Mobile and Web Apps Developer
 - My goal is to deliver high-quality Apps 📱
