@@ -1,9 +1,9 @@
 ## Hi there 👋, my name is Pavly Remon.
-### Software Engineer at [![Huawei](https://img.shields.io/badge/Huawei-00599C?style=?style=flat&logo=huawei&logoColor=red&color=white)](https://www.huawei.com/)
+### Senior Software Engineer at [![VOIS](https://img.shields.io/badge/-VOIS-EF0000?style=?style=flat&logo=vodafone&logoColor=red&color=white)]([https://www.huawei.com/](https://www.vodafone.com/careers/professional-career-areas/shared-services#We-are-VOIS))
 
-- A creative and detail-oriented Mobile and Web Apps Developer
+- A creative and detail-oriented Web and Mobile Apps Developer
 - My goal is to deliver high-quality Apps 📱
-- Having a good experience in many programming languages (mostly: Flutter, Vue.js, and Python) 
+- Having a good experience in many programming languages (mostly: Go, React & Next.js) 
 - Also, Have a good experience in AI Engineering Track 🤖
 
 
