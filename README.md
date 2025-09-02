@@ -1,45 +1,53 @@
-## Hi there 👋, my name is Pavly Remon.
-### Senior Software Engineer at [![VOIS](https://img.shields.io/badge/-VOIS-EF0000?style=?style=flat&logo=vodafone&logoColor=red&color=white)]([https://www.huawei.com/](https://www.vodafone.com/careers/professional-career-areas/shared-services#We-are-VOIS))
+<h1 align="center">Hey 👋What's Up? I am Pavly Ayoub</h1>
+<div>
+  <h2>Current Role</h2>
+  <p>  
+    Senior Software Engineer at <a href="https://www.vodafone.com/careers/professional-career-areas/shared-services" target="_blank"><img src="https://img.shields.io/badge/-VOIS-EF0000?style=?style=flat&logo=vodafone&logoColor=red&color=white" height="25"/></a>
+  </p>
+</div>
 
-- A creative and detail-oriented Web and Mobile Apps Developer
-- My goal is to deliver high-quality Apps 📱
-- Having a good experience in many programming languages (mostly: Go, React & Next.js) 
-- Also, Have a good experience in AI Engineering Track 🤖
-
-
-##### 📫 How to reach me:
-
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&link=http://right)](https://www.linkedin.com/in/pavly-remon-090156107/)
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&link=http://right&logoColor=ffffff)](mailto:pavlyr.2019@gmail.com)
-
-
-##### 🔭 Languages, tools, and technologies:
-![Web Development](https://img.shields.io/badge/Web-14354C?style=flat&logo=javascript&logoColor=ffff00)
-![Flutter](https://img.shields.io/badge/Flutter-00599C?style=flat&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=blue&color=ffff00)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-14354C?style=flat&logo=mysql&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-14354C?style=flat&logo=tensorflow&logoColor=orange&color=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&link=http://right&logoColor=ffffff)
-![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&link=http://right&logoColor=ffffff)
-![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&link=http://right&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+<div>
+  <h2>About Me</h2>
+  <ul>
+    <li>A creative and detail-oriented Web and Mobile Apps Developer</li>
+    <li>My goal is to deliver high-quality Apps 📱</li>
+    <li>Having a good experience in many programming languages (mostly: Go, React & Next.js) </li>
+    <li>Also, Have a good experience in AI Engineering Track 🤖</li>
+  </ul>
+</div>
 
 
 
 
-<!--
-**pavly-remon/pavly-remon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+<h2>📫 How to reach me</h2>
+  <a href="https://www.linkedin.com/in/pavly-remon" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:pavlyremon@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="left">
+<h2>🔭 Languages, tools, and technologies</h2>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+    <img width="12" />
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
