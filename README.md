@@ -42,6 +42,8 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
