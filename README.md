@@ -8,12 +8,7 @@
 
 <div>
   <h2>About Me</h2>
-  <ul>
-    <li>A creative and detail-oriented Web and Mobile Apps Developer</li>
-    <li>My goal is to deliver high-quality Apps 📱</li>
-    <li>Having a good experience in many programming languages (mostly: Go, React & Next.js) </li>
-    <li>Also, Have a good experience in AI Engineering Track 🤖</li>
-  </ul>
+  [Check My Portfolio](https://www.picode.dev/)
 </div>
 
 
