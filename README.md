@@ -8,7 +8,7 @@
 
 <div>
   <h2>About Me</h2>
-  <a href="https://www.picode.dev">Visit My Portfolio</a>
+  👉 <a href="https://www.picode.dev">Visit My Portfolio</a>
 </div>
 
 
